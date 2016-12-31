@@ -1,0 +1,16 @@
+{
+  "name": "jyoya",
+  "version": "1.0.0",
+  "description": "bonnou ",
+  "main": "bonnou.js",
+  "dependencies": {
+    "node-dash-button": "^0.6.1",
+    "play-sound": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syaro",
+  "license": "MIT"
+}
